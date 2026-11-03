@@ -1,0 +1,22 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nexaRing" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#2448A5" />
+      <stop offset="60%" stopColor="#101A35" />
+      <stop offset="100%" stopColor="#2448A5" />
+    </linearGradient>
+    <radialGradient id="pearlSphere" cx="38%" cy="36%" r="62%">
+      <stop offset="0%" stopColor="#FFFFFF" />
+      <stop offset="35%" stopColor="#D9DDE5" />
+      <stop offset="70%" stopColor="#2448A5" />
+      <stop offset="100%" stopColor="#101A35" />
+    </radialGradient>
+  </defs>
+  <circle cx="24" cy="24" r="21" stroke="url(#nexaRing)" stroke-width="2.2" stroke-dasharray="4 2" opacity="0.4" />
+  <path d="M 10 24 C 10 16 16 10 24 10 C 32 10 38 16 38 24 C 38 32 32 38 24 38" stroke="#2448A5" stroke-width="2.4" stroke-linecap="round" />
+  <path d="M 38 24 C 38 29 35 34 30 37 C 25 40 18 39 14 35" stroke="#D9DDE5" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="3 3" />
+  <circle cx="24" cy="24" r="9.5" fill="url(#pearlSphere)" />
+  <circle cx="21" cy="21" r="2.2" fill="#FFFFFF" fill-opacity="0.9" />
+  <circle cx="26" cy="26" r="1.1" fill="#FFFFFF" fill-opacity="0.5" />
+</svg>
+
