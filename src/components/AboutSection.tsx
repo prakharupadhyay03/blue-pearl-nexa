@@ -50,7 +50,7 @@ export default function AboutSection() {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl sm:rounded-3xl overflow-hidden shadow-[0_16px_40px_rgba(16,26,53,0.08)] border border-[#D9DDE5] aspect-[16/10] sm:aspect-[4/3] lg:aspect-[4/5] max-w-md mx-auto lg:max-w-none">
               <Image
-                src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=80"
+                src="/hero4.png"
                 alt="Blue Pearl Nexa Development and Design Team in Studio Session"
                 fill
                 sizes="(max-width: 1024px) 100vw, 42vw"

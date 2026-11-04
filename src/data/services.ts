@@ -11,7 +11,7 @@ export const servicesData: ServiceItem[] = [
       "We design and engineer performant, accessible websites tailored to your commercial objectives. From custom design implementation to modern Next.js architectures, every build focuses on speed, responsiveness, and clear content presentation.",
     iconName: "Code2",
     imageUrl:
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+      "/webdev.png",
     features: [
       "Custom responsive layouts optimized for all device viewports",
       "Next.js App Router and TypeScript frontend engineering",
@@ -35,7 +35,7 @@ export const servicesData: ServiceItem[] = [
       "We build tailored business applications and internal administrative platforms that eliminate operational bottlenecks, centralize core data, and give modern teams the structured software tools they need to execute efficiently.",
     iconName: "AppWindow",
     imageUrl:
-      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
+      "/appdevelopment.png",
     features: [
       "Role-based authentication, user permissions and access control",
       "Custom business logic, validation rules and workflow automation",
@@ -59,7 +59,7 @@ export const servicesData: ServiceItem[] = [
       "We build reliable mobile experiences using modern cross-platform frameworks. We prioritize ergonomic touch interactions, efficient state caching for offline reliability, and practical workflows that users can adopt without a learning curve.",
     iconName: "Smartphone",
     imageUrl:
-      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80",
+      "/appdev.png",
     features: [
       "Cross-platform iOS and Android application development",
       "Offline-first local caching and seamless background sync",
@@ -83,7 +83,7 @@ export const servicesData: ServiceItem[] = [
       "We structure and manage predictable cloud setups across AWS, Google Cloud, and modern serverless platforms. Our focus is automated deployment pipelines, resilient container orchestration, and sensible resource scaling that prevents surprise infrastructure costs.",
     iconName: "Cloud",
     imageUrl:
-      "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "/clouddevops.png",
     features: [
       "Infrastructure as Code (Terraform) for repeatable environments",
       "Automated CI/CD deployment pipelines (GitHub Actions, GitLab)",
@@ -107,7 +107,7 @@ export const servicesData: ServiceItem[] = [
       "We architect dependable server-side architectures, scalable relational and document databases, and clean RESTful/GraphQL interfaces. Every system is built with data validation, structured logging, and straightforward maintainability as core priorities.",
     iconName: "Workflow",
     imageUrl:
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "/backend.png",
     features: [
       "RESTful and GraphQL API design with OpenAPI specification",
       "Relational (PostgreSQL) and document database modeling",
@@ -131,7 +131,7 @@ export const servicesData: ServiceItem[] = [
       "We perform pragmatic code reviews, dependency vulnerability scanning, authentication flow assessments, and infrastructure security checks. We provide clear, prioritized remediation paths rather than unhelpful automated scanner reports.",
     iconName: "ShieldCheck",
     imageUrl:
-      "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "/cybersecurity.png",
     features: [
       "OWASP Top 10 vulnerability assessments and code reviews",
       "Authentication, token handling and session security audits",
@@ -155,7 +155,7 @@ export const servicesData: ServiceItem[] = [
       "We help technology companies establish an authoritative online presence through coherent visual branding, search engine accessibility, structured metadata, and measurable digital growth channels that generate qualified inbound inquiries.",
     iconName: "TrendingUp",
     imageUrl:
-      "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80",
+      "/digitalgrowth.png",
     features: [
       "Coherent visual brand guidelines, typography and color systems",
       "Technical SEO, semantic schema markup and crawl optimization",

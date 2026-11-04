@@ -14,19 +14,19 @@ interface HeroSlide {
 const heroSlides: HeroSlide[] = [
   {
     // Image 1: Development Team collaborating around laptops in a modern office
-    src: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=2400&q=85",
+    src: "/hero1.png",
     alt: "Professional software development team collaborating around laptops in a modern office",
     theme: "Development Team",
   },
   {
     // Image 2: Technology & Engineering - code, professional monitors & modern workspace
-    src: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2400&q=85",
+    src: "/hero2.png",
     alt: "Close-up scene of developers working on code, professional monitors and technical workspace",
     theme: "Technology & Engineering",
   },
   {
     // Image 3: Creative Collaboration - agency team discussing website design & digital experiences
-    src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=2400&q=85",
+    src: "/hero3.png",
     alt: "Modern digital agency team discussing website design, product ideas and digital experiences",
     theme: "Creative Collaboration",
   },

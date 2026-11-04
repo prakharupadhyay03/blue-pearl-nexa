@@ -165,10 +165,10 @@ export default function ContactSection({ initialProjectType }: ContactSectionPro
                     Phone Inquiries
                   </span>
                   <a
-                    href="tel:+918329347137"
+                    href="tel:+919075556635"
                     className="text-sm font-bold text-[#101A35] hover:text-[#2448A5] transition-colors"
                   >
-                    +91 8329347137
+                    +91 9075556635
                   </a>
                 </div>
               </div>

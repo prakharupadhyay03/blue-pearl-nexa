@@ -161,10 +161,10 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <LuPhone className="w-4 h-4 text-[#2448A5] shrink-0" />
                 <a
-                  href="tel:+918329347137"
+                  href="tel:+919075556635"
                   className="hover:text-[#FAFAF8] transition-colors"
                 >
-                  +91 8329347137
+                  +91 9075556635
                 </a>
               </li>
               <li className="flex items-center gap-3">
