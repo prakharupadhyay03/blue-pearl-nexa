@@ -175,21 +175,9 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Bottom Bar: Copyright on Left & ThinkBuild Attribution on Bottom Right */}
-        <div className="pt-6 sm:pt-7 flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4 text-xs text-[#D9DDE5]/60 text-center sm:text-left">
+        {/* Bottom Bar: Copyright */}
+        <div className="pt-6 sm:pt-7 text-xs text-[#D9DDE5]/60 text-center sm:text-left">
           <p>© {new Date().getFullYear()} Blue Pearl Nexa. All rights reserved.</p>
-          <p className="text-[#D9DDE5]/80 font-medium">
-            Designed and Maintained by{" "}
-            <a
-              href="https://www.thinkbuild.in"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="font-bold hover:underline underline-offset-2 transition-all"
-            >
-              <span className="text-blue-300">Think</span>
-              <span className="text-charcoal-800">Build</span>
-            </a>
-          </p>
         </div>
       </div>
     </footer>
